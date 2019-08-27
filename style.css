@@ -1,0 +1,13 @@
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+button {
+  display: block;
+  margin: 12px auto;
+}
